@@ -440,4 +440,7 @@
         lzmJC8P+9Kc/2RePzXXeEdPDZyGXy/n/Ad3lJ1JgfteHAAAAAElFTkSuQmCC
 </value>
   </data>
+  <metadata name="arrayStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>
